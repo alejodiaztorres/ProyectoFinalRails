@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  debut: 2019-07-31
+  player: one
+  team: one
+  position: MyString
+  lastdate: 2019-07-31
+
+two:
+  debut: 2019-07-31
+  player: two
+  team: two
+  position: MyString
+  lastdate: 2019-07-31
